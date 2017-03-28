@@ -1,8 +1,6 @@
-# Walmyr Filho
-**E-mail:** wlsf82@gmail.com<br />
-**Mobile:** +47 469 39 756<br />
-**Website:** [http://walmyr-filho.com](http://walmyr-filho.com/en-index.html)<br />
-**Medium:** https://medium.com/@walmyrlimaesilv<br />
+# Joana Paz Cardoso
+**E-mail:** joanapaz@gmail.com<br />
+**Mobile:** +47 902 41 272<br />
 **Location:** Oslo, Norway<br />
 
 Software engineer with focus in QA, active member of technology communities and fan of good music and skateboarding.
