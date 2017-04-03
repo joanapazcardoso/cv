@@ -1,5 +1,5 @@
 # Joana Paz Cardoso
-Brazilian, married, 31 years.
+**Brazilian, married, 31 years.**
 
 
 **E-mail:** joanapaz@gmail.com<br />
@@ -124,10 +124,15 @@ Development of own project focused on digital improvements based on agile method
 
 #### Commercial Assistant of Digital Products at GRUPO RBS (September 2010 to September 2011).**
 Account Executives Managers back office.
+
 Planning and implementing strategies in digital campaigns for direct clients and advertising agencies.
+
 Strategic planning and mapping sales portfolio.
+
 Preparation of business proposals and presentations.
+
 Negotiation with agencies of advertising.
+
 Closing deals to the commercial area.
 
 - [Grupo RBS Website](http://www.gruporbs.com.br/en)
@@ -154,14 +159,19 @@ Audit and implement, where necessary, all processes for the execution of project
 
 ### OTHER EXPERIENCES:
 DUEMIX – Media Assistant (July 2009 to January 2010).
+
 CLASSIMARKETING – Account Manager (March 2009 to August 2009).
+
 ZAP ATACADO – Administrative Assistant Internship (January 2008 to March 2009).
+
 ASSISTIR ADVOCACIA – Marketing Assistant Internship (June 2005 to December 2005).
 
 
 ## LANGUAGES
 **Brazilian Portugues:** Fluent - mother language
+
 **English:** Advanced.
+
 **Spanish:** Upper Intermediate.
 
 
