@@ -1,5 +1,6 @@
 # Joana Paz Cardoso
 Brazilian, married, 31 years.
+
 **E-mail:** joanapaz@gmail.com<br />
 **Mobile:** +47 902 41 272<br />
 **Location:** Oslo, Norway<br />
@@ -16,18 +17,30 @@ Extension Course in Business and Sales - APC: Australian Pacific College – Syd
 ## PROFESSIONAL EXPERIENCE 
 #### Marketing Leader at TALLER DIGITAL BUSINESS - Outsourcing Company - (October 2014 to May 2016)
 Strong performance with agile methodologies and lean management.
+
 Planning and execution of digital communication projects on daily operation, including social media, SEO, inbound and content marketing.
+
 Planning of marketing activities through fixed schedule and macro projects to help the company achieve the desired results.
 More than 10 macro projects successfully executed.
+
 Brand restructuring as well as their contact points. (New site, new blog, new logo, new promotional materials)
+
 Structuring and monitoring of KPI’s and metrics of the actions developed by the marketing area.
+
 Management of changes and improvements.
+
 Support the commercial area through institutional materials, business proposals and post sales presentations.
+
 Product Marketing Management: El Tracker - beta version - SaaS developed by the company to facilitate the event tracking.
+
 Conversion and activation of more than 1000 qualified leads to a specific B2B market.
+
 Content production (posts and eBooks) for the Taller Blog.
+
 Increased over 80% the production of new content.
+
 An increase of the company's website audience in 400% and over 100% on the blog’s audience.
+
 All results achieved without any budget.
 
 - [Taller](http://taller.net.br)
