@@ -12,7 +12,7 @@ Passionate about people, internet, marketing and technology. About 10 years work
 ## EDUCATION
 Bacharel in Social Communication with a focus on Advertising & Marketing - ESPM: School of Advertising and Marketing - Brazil, Porto Alegre. 2011.
 
-Extension Course in Business and Sales - APC: Australian Pacific College – Sydney, Austrália. 2007.
+Extension Course in Business and Sales - APC: Australian Pacific College – Sydney, Australia. 2007.
 
 
 ## PROFESSIONAL EXPERIENCE 
@@ -44,7 +44,7 @@ An increase of the company's website audience in 400% and over 100% on the blog�
 
 All results achieved without any budget.
 
-- [Taller](http://taller.net.br)
+- [Taller](http://taller.net.br/en/#)
 - [My posts on Taller Blog](http://blog.taller.net.br/author/joana-paz/)
 - [El Tracker](https://eltracker.io)
 
