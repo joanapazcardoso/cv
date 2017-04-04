@@ -176,6 +176,8 @@ ASSISTIR ADVOCACIA – Marketing Assistant Internship (June 2005 to December 200
 
 
 ## ADDITIONAL:
+All Google Suit
+
 Word, Excel, PowerPoint, Outlook and Internet. (Advanced)
 
 Analytics: Google Analytics and Omniture. (Advanced)
