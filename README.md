@@ -5,7 +5,7 @@
 **E-mail:** joanapaz@gmail.com<br />
 **Mobile:** +47 902 41 272<br />
 **Location:** Oslo, Norway<br />
-[**LinkedIn**](https://www.linkedin.com/in/joanapazcardoso/)
+[**Check out my LinkedIn**](https://www.linkedin.com/in/joanapazcardoso/)
 
 Passionate about people, internet, marketing and technology. About 10 years working with communication and marketing involving the planning, management, and analysis of integrated strategies, including 6 years as a Digital Marketing Specialist. I’m an analytical person that can turn data into information and transform this information into actions. I have experience in the Business Analysis, Project and Product Management for Marketing areas as Digital Communication, Inbound Marketing, Content Marketing, Institutional Marketing and Social Media.   Ability in the relationship with internal teams, customers, suppliers, stakeholders, the media, advertising agencies and partners, as well as experience on the approval of graphics, audiovisual and digital materials. Knowledge on creating KPI’s and metrics for project and product management, helping to develop branding actions and digital campaigns tailor-made to the business needs. I also have a strong performance with agile methodologies, lean management, and the lean startup concepts.
 
