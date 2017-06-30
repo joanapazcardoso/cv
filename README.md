@@ -1,5 +1,5 @@
 # Joana Paz Cardoso
-**Brazilian, married, 31 years.**
+**Brazilian, married, 32 years.**
 
 
 **E-mail:** joanapaz@gmail.com<br />
@@ -8,8 +8,7 @@
 [**Check out my LinkedIn**](https://www.linkedin.com/in/joanapazcardoso/)
 
 
-## Desired areas: 
-Marketing, Communication, Customer Success and User Research
+**Desired areas:** Marketing, Communication, Customer Success and User Research
 
 Passionate about people, the internet, marketing and technology. About 10 years working with customers, communication and marketing involving the planning, management, and analysis of integrated strategies, including 6 years as a Digital Marketing Specialist. I’m an analytical person that can turn data into informationand transform this information into actions. I have experience in the Business Analysis, Project and Product Management for Marketing areas as Digital Communication, Inbound Marketing, Content Marketing, Institutional Marketing and Social Media. Ability in the relationship with internal teams, customers, suppliers, stakeholders, the media, advertising agencies and partners, as well as experience on the approval of graphics, audiovisual and digital materials. Knowledge on creating KPI’s and metrics for project and product management, helping to develop customers and brand actions to digital campaigns tailor-made to the business needs. I also have a strong performance with Agile Methodologies, Lean Management, and the Lean Startup concepts.
 
