@@ -7,7 +7,11 @@
 **Location:** Oslo, Norway<br />
 [**Check out my LinkedIn**](https://www.linkedin.com/in/joanapazcardoso/)
 
-Passionate about people, internet, marketing and technology. About 10 years working with communication and marketing involving the planning, management, and analysis of integrated strategies, including 6 years as a Digital Marketing Specialist. I’m an analytical person that can turn data into information and transform this information into actions. I have experience in the Business Analysis, Project and Product Management for Marketing areas as Digital Communication, Inbound Marketing, Content Marketing, Institutional Marketing and Social Media.   Ability in the relationship with internal teams, customers, suppliers, stakeholders, the media, advertising agencies and partners, as well as experience on the approval of graphics, audiovisual and digital materials. Knowledge on creating KPI’s and metrics for project and product management, helping to develop branding actions and digital campaigns tailor-made to the business needs. I also have a strong performance with agile methodologies, lean management, and the lean startup concepts.
+
+## Desired areas: 
+Marketing, Communication, Customer Success and User Research
+
+Passionate about people, the internet, marketing and technology. About 10 years working with customers, communication and marketing involving the planning, management, and analysis of integrated strategies, including 6 years as a Digital Marketing Specialist. I’m an analytical person that can turn data into informationand transform this information into actions. I have experience in the Business Analysis, Project and Product Management for Marketing areas as Digital Communication, Inbound Marketing, Content Marketing, Institutional Marketing and Social Media. Ability in the relationship with internal teams, customers, suppliers, stakeholders, the media, advertising agencies and partners, as well as experience on the approval of graphics, audiovisual and digital materials. Knowledge on creating KPI’s and metrics for project and product management, helping to develop customers and brand actions to digital campaigns tailor-made to the business needs. I also have a strong performance with Agile Methodologies, Lean Management, and the Lean Startup concepts.
 
 
 ## EDUCATION
@@ -18,28 +22,31 @@ Extension Course in Business and Sales - APC: Australian Pacific College – Syd
 
 ## PROFESSIONAL EXPERIENCE 
 ### Marketing Leader at TALLER DIGITAL BUSINESS - Outsourcing Company - (October 2014 to May 2016)
-Strong performance with agile methodologies and lean management.
+Strong performance with Agile Methodologies and Lean Management.
 
 Planning and execution of digital communication projects on daily operation, including social media, SEO, inbound and content marketing.
 
 Planning of marketing activities through fixed schedule and macro projects to help the company achieve the desired results.
+
 More than 10 macro projects successfully executed.
 
 Brand restructuring as well as their contact points. (New site, new blog, new logo, new promotional materials)
 
 Structuring and monitoring of KPI’s and metrics of the actions developed by the marketing area.
 
-Management of changes and improvements.
-
-Support the commercial area through institutional materials, business proposals and post sales presentations.
+Management of changes and improvements in the business. Support the commercial area through institutional materials, business proposals and after sales presentations.
 
 Product Marketing Management: El Tracker - beta version - SaaS developed by the company to facilitate the event tracking.
 
+Developing the Customer Success strategy for the product, as onboarding, activation and retention email marketing, webinars, online guides, user research and many others.
+
+Focus on education of the customers to build and nurture their level of satisfaction with the services and products.
+
 Conversion and activation of more than 1000 qualified leads to a specific B2B market.
 
-Content production (posts and eBooks) for the Taller Blog.
-
 Increased over 80% the production of new content.
+
+Content production (posts and eBooks) for the Taller Blog.
 
 An increase of the company's website audience in 400% and over 100% on the blog’s audience.
 
@@ -51,7 +58,7 @@ All results achieved without any budget.
 
 
 ### Digital Marketing Consultant at RESULTADOS DIGITAIS – Inbound Marketing SaaS - (June 2014 to September 2014)
-Strong performance with the concepts of Lean Startup and agile methodologies.
+Strong performance with the concepts of Lean Startup and Agile Methodologies.
 
 Using the methodology of inbound marketing for new business development.
 
@@ -73,29 +80,33 @@ Content production (posts and eBooks) for the Resultados Digitais Blog.
 
 Make training for potential customers focused on the use and implementation of RD Station.
 
+Working close to the customer success area helping customers to get educate and develop their skills aiming to reduce churn and increase the retention rate.
+
 - [Resultados Digitais](http://resultadosdigitais.com.br)
 - [RD Station](https://rdstation.com.br)
 - [Content Production exemple: E-Book](http://materiais.resultadosdigitais.com.br/17-servicos-de-inbound-marketing)
 
 
 ### Account and Project Manager at 3YZ MARKETING DIGITAL – Digital Advertising Agency (March 2013 to May 2014).
-Service focused on digital marketing for Lojas Renner - nationwide. (Largest fashion retailer in Brazil)
+Managing the customer needs by understanding the client’s strategic goals, objectives and core business.
 
-Focus on attending the e-commerce needs. Deep client business comprehension.
+Focus on serving and educating the customer aiming to build and nurture their level of satisfaction with the services and products.
 
-Schedule and Budget management.
+Service focused on digital marketing for Lojas Renner (Largest fashion retailer in Brazil).
+
+Focus on attending the Lojas Renner e-commerce needs. Schedule and Budget management.
 
 Planning and management of digital campaigns and projects for e-commerce needs.
 
 Management of the team focused on email marketing.
 
-Development of email marketing strategies to all fronts of the company (E-commerce, Marketing, and CRM).
+Development of email marketing strategies to all fronts of the company (E-commerce, Marketing, and CRM). Helping them to develop and retain their own customers.
 
 Management, development, and implementation of all layouts and email marketing HTMLs.
 
 Performance analysis of digital campaigns.
 
-Monitoring the KPI’s and metrics used in strategies aimed at e-commerce. (Email Marketing, Sponsored Links, Display, Site Banners, Social Networks, Remarketing).
+Monitoring the KPI’s and metrics used in strategies aimed at e-commerce (Email Marketing, Sponsored Links, Display, Site Banners, Social Networks,Remarketing).
 
 Development and Management of graphic materials.
 
@@ -109,7 +120,13 @@ Planning and managing hot sites, applications and other necessary technologies i
 ### Project and Account Manager of Digital Products at GRUPO RBS: Largest Media and Communication Company in south Brazil. (September 2011 to March 2013).
 Sale digital media to direct clients and advertising agencies.
 
-Deep client business comprehension to planning, managing and analyzing digital projects and campaigns focused on display and media publishing projects. 
+Managing the customer and market needs by understanding their strategic goals, objectives and core business.
+
+Focus on serving and educating the customer aiming to build a strong relationship to up-sell, cross-sell and retain them.
+
+Helping the customers to develop and retain their own clients.
+
+Deep client business comprehension to planning, managing and analysing digital projects and campaigns focused on display and media publishing projects.
 
 Management of KPI’s, metrics and business goals.
 
@@ -117,11 +134,11 @@ Strategic management and client portfolio mapping.
 
 Prospecting of new business opportunities.
 
-Implementation of training on digital marketing for internal teams, stakeholders, clients and advertising agencies.
+Implementation of training on digital marketing for internal teams, stakeholders, customers and advertising agencies/suppliers.
 
-Market Evangelist about digital marketing.
+Educating the market and customers about digital marketing.
 
-Development of own project focused on digital improvements based on agile methodologies.
+Development of own project focused on digital improvements based on Agile Methodologies.
 
 #### Commercial Assistant of Digital Products at GRUPO RBS (September 2010 to September 2011).**
 Account Executives Managers back office.
@@ -179,24 +196,22 @@ ASSISTIR ADVOCACIA – Marketing Assistant Internship (June 2005 to December 200
 ## ADDITIONAL:
 All Google Suit
 
-Word, Excel, PowerPoint, Outlook and Internet. (Advanced)
+Word, Excel, PowerPoint, Outlook and Internet. 
 
-Analytics: Google Analytics and Omniture. (Advanced)
+Analytics: Google Analytics and Omniture. 
 
-Ad servers: OAS and Smart. (Intermediate)
+Ad servers: OAS and Smart. 
 
-Publi manager. (Intermediate)
+Publi manager.
 
-Microsoft Dynamics CRM. (Advanced)
+Microsoft Dynamics CRM and Pipedrive CRM. 
 
-Pipedrive CRM. (Advanced)
+Project Manager Trello, Collab, and JIRA. 
 
-Project Manager Trello, Collab, and JIRA. (Advanced)
+Virtual Target Email Marketing and MailChimp.
 
-Virtual Target Email Marketing. (Advanced)
+Oracle Responsys - Automation Email Marketing. 
 
-Oracle Responsys - Automation Email Marketing. (Intermediate)
+RD Station - Inbound Marketing Tool for management and automation in digital marketing. 
 
-RD Station - Inbound Marketing Tool for management and automation in digital marketing. (Advanced)
-
-Mailchimp, Piktochart, Canva, Wix, Wordpress, HubSpot, GitHub.
+Piktochart, Canva, Wix, Wordpress, HubSpot, GitHub.
