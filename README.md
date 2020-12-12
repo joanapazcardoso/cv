@@ -56,7 +56,15 @@ Both for the Connecter Customer Framework Project for ServiceNow (Customer Journ
 
 
 ## PROFESSIONAL EXPERIENCE 
-### Marketing Lead at TALLER DIGITAL BUSINESS - Agile Software Development Company - (October 2014 to May 2016)
+### Digital Experience & Analytics Manager, EMEA at SERVICENOW - Enterprise Software Company (May 2018 until now) The Netherlands 
+When I first started at ServiceNow, I was an Inbound Marketing Manager,  responsible for the strategic planning, execution, and analysis of a set of different digital marketing channels as websites, blogs, social (LinkedIn, Facebook), Programmatic media, and Paid Search. My focus was on digital acquisition for the whole EMEA plus the management of 6 websites in 6 different languages. 
+
+Currently,  lead the digital experience for EMEA. I'm responsible for a diverse set of key programs for seven websites (.com, .de, .fr, .nl, .es, .co.it, .co.uk), such as International SEO, SEM, UX, personalization, chatbot, webinars, microsites, customer journeys, blogs & localization of marketing materials. I also manage the web analytics data & KPI’s for EMEA Digital with a big focus on actionable data & insights to support business decisions and drive team efficiency.
+
+I’m also responsible for keeping the brand compliance on EMEA digital properties and supporting the launch of all global brand campaigns in the regions. Another key part of my work at ServiceNow is team enablement and stakeholder management.
+
+
+### Marketing Lead at TALLER DIGITAL BUSINESS - Agile Software Development Company - (October 2014 to May 2016) Brazil
 
 Head of all marketing activities, as events, brand management, digital activation, sales support, reporting, and analytics management for the marketing department. 
 
@@ -71,7 +79,7 @@ I worked close to the sales and engineer teams to support the overall company, a
 - [El Tracker](https://eltracker.io)
 
 
-### Digital Marketing Consultant at RESULTADOS DIGITAIS – Marketing Automation SaaS - (June 2014 to September 2014)
+### Digital Marketing Consultant at RESULTADOS DIGITAIS – Marketing Automation SaaS - (June 2014 to September 2014) Brazil
 A brief but very intense experience in one of the biggest saas and fast-growing startups in Brazil. I was part of the Partner Success team and had to” hunt” digital marketing agencies, enable them on inbound marketing and marketing automation, and close the partnership deal with Resultados Digitais by bringing new customers to the product through the channel program. 
 
 I was responsible for the strategic planning in digital marketing for each partner and their respective client. Help our partners and customers to get educated was the core of my responsibilities, aiming to reduce churn and increase the retention rate. I also produced content for the company’s blog
@@ -81,7 +89,7 @@ I was responsible for the strategic planning in digital marketing for each partn
 - [Content Production exemple: E-Book](http://materiais.resultadosdigitais.com.br/17-servicos-de-inbound-marketing)
 
 
-### Account and Project Manager at 3YZ MARKETING DIGITAL – Digital Advertising Agency - A WPP Agency (March 2013 to May 2014).
+### Account and Project Manager at 3YZ MARKETING DIGITAL – Digital Advertising Agency - A WPP Agency (March 2013 to May 2014) Brazil
 I was responsible for the account management for Lojas Renner, the largest Brazilian retail fashion chain of clothing departments. I was managing all projects for their e-commerce, such as creative production for the website, and the launch of several campaigns. 
 
 I managed all paid media strategy for channels as Facebook, Pinterest, Instagram, Paid Search, and Programmatic. I was also responsible for the whole email marketing (including marketing automation) strategy. 
@@ -95,7 +103,7 @@ I managed different vendors like photographers, agencies, technology vendors, an
 - [3yz Website](http://3yz.com/)
 
 
-### Project and Account Manager of Digital Products at GRUPO RBS: Largest Media and Communication Company in south Brazil. (September 2011 to March 2013).
+### Project and Account Manager of Digital Products at GRUPO RBS: Largest Media and Communication Company in south Brazil. (September 2011 to March 2013) Brazil
 Grupo RBS is the largest Media & Communication conglomerate in south Brazil.I was responsible for managing a large set of marketing agencies, direct customers, and bringing new prospects through the digital products of the company. 
 
 The main products were programmatic media, branded content, social promotion, and other special omnichannel projects.I have worked closely with many big agencies to support their customers in the buying and delivery of digital media. Planning of campaigns, development of creatives, approval of materials, and full management of numerous successful campaigns across channels.
@@ -103,7 +111,7 @@ The main products were programmatic media, branded content, social promotion, an
 The job also involved deep enablement and training of internal and external stakeholders. I have done several workshops and developed materials on what is digital marketing,  how to measure digital marketing, how to sell digital media, how to produce good creatives for digital channels, and others. All aiming to support the companies growth and enable my customers to achieve the best results with digital marketing.
 
 
-#### Sales Operation for Digital Products at GRUPO RBS (September 2010 to September 2011).**
+#### Sales Operation for Digital Products at GRUPO RBS (September 2010 to September 2011) Brazil
 Supporting the Account Managers by creating sales plans, media reports, training decks, analysing sales & accounts data, pipeline metrics, feeding the systems and connecting with different stakeholders and departments like procurement, media operations, publishers, marketing, agencies.
 Digital products I supported: programmatic media, branded content, social promotion and other special projects.
 
@@ -112,7 +120,7 @@ Digital products I supported: programmatic media, branded content, social promot
 - [ClicRBS Portal](https://www.clicrbs.com.br)
 
 
-### Marketing Assistant at NATURA COSMÉTICOS – Largest Brazilian Cosmetic Company (January 2010 to September 2010).
+### Marketing Assistant at NATURA COSMÉTICOS – Largest Brazilian Cosmetic Company (January 2010 to September 2010) Brazil
 Support the marketing managers and directors with the execution os the local marketing activities, projects and programs, as internal events for sales teams, social events for communities in need, budget and vendor management.
 
 - [Natura Website](http://www.natura.com.br)
@@ -120,13 +128,13 @@ Support the marketing managers and directors with the execution os the local mar
 
 
 ### OTHER EXPERIENCES:
-DUEMIX – Media Assistant (July 2009 to January 2010).
+DUEMIX – Media Assistant (July 2009 to January 2010) Brazil
 
-CLASSIMARKETING – Account Manager (March 2009 to August 2009).
+CLASSIMARKETING – Account Manager (March 2009 to August 2009) Brazil
 
-ZAP ATACADO – Administrative Assistant Internship (January 2008 to March 2009).
+ZAP ATACADO – Administrative Assistant Internship (January 2008 to March 2009) Brazil
 
-ASSISTIR ADVOCACIA – Marketing Assistant Internship (June 2005 to December 2005).
+ASSISTIR ADVOCACIA – Marketing Assistant Internship (June 2005 to December 2005) Brazil
 
 
 ## LANGUAGES
