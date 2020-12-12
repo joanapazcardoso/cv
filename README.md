@@ -63,6 +63,14 @@ Currently,  lead the digital experience for EMEA. I'm responsible for a diverse 
 
 I’m also responsible for keeping the brand compliance on EMEA digital properties and supporting the launch of all global brand campaigns in the regions. Another key part of my work at ServiceNow is team enablement and stakeholder management.
 
+- [ServiceNow .com](https://www.servicenow.com/)
+- [ServiceNow .co.uk](https://www.servicenow.co.uk/)
+- [ServiceNow .de](https://www.servicenow.de/)
+- [ServiceNow .fr](https://www.servicenow.fr/)
+- [ServiceNow .nl](https://www.servicenow.nl/)
+- [ServiceNow .es](https://www.servicenow.es/)
+- [ServiceNow .co.it](https://www.servicenow.co.it/)
+
 
 ### Marketing Lead at TALLER DIGITAL BUSINESS - Agile Software Development Company - (October 2014 to May 2016) Brazil
 
